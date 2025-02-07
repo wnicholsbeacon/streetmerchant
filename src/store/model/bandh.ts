@@ -356,6 +356,12 @@ export const BAndH: Store = {
       url: 'https://www.bhphotovideo.com/c/product/1598377-REG/amd_100_100000065box_ryzen_5_5600x_3_7.html',
     },
     {
+    brand: 'amd',
+    model: '9800x3d',
+    series: 'ryzen9800x3d',
+    url: 'https://www.bhphotovideo.com/c/product/1859346-REG/amd_100_100001084wof_ryzen_7_9800x3d_am5.html',
+    },
+    {
       brand: 'amd',
       model: '5600x',
       series: 'ryzen5600',
